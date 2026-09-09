@@ -63,6 +63,10 @@ Python, pandas, numpy, matplotlib, seaborn — all in a Jupyter notebook.
 
 - `saas_churn_analysis.ipynb` — the full notebook, start to finish
 
+## Visuals
+![Visuals](Data_Visualization-1.png)
+
+
 ## Running it yourself
 
 ```bash
@@ -75,6 +79,7 @@ jupyter notebook saas_churn_analysis.ipynb
 The notebook pulls data directly from a public Google Sheet, so it should run as-is without needing a local CSV.
 
 ## About me
+**Open to data analyst, business analyst, and other analytics roles.**
 
-- LinkedIn: [linkedin.com/in/akash-gobari](https://linkedin.com/in/akash-gobari)
-- GitHub: [github.com/akash-gobari](https://github.com/akash-gobari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/akashgobari/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/akash-gobari)
