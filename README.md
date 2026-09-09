@@ -1,4 +1,11 @@
 # SaaS Customer Subscription and Churn Analysis
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-2.0-150458?logo=pandas&logoColor=white)
+![numpy](https://img.shields.io/badge/numpy-1.26-013243?logo=numpy&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-0.13-4C72B0?logo=python&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-3.8-11557C?logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-1D9E75)
+---
 
 This is my capstone project for Tutedude's Business Analytics Course, analyzing customer behavior and churn for a SaaS business. SaaS companies live and die by retention, so I wanted to dig into a customer dataset and see what actually separates the customers who stick around from the ones who cancel.
 
